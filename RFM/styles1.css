@@ -1,0 +1,80 @@
+#navigation{
+
+	height: 40px;
+	padding: 20px;
+	
+}
+ul#nav li a{
+	text-decoration: none;
+	color: #FFBC1D;
+	margin-right: 9%;
+}
+ul#nav li{
+	list-style: none;
+	display: inline;
+	font-style: normal;
+	text-decoration: underline;
+
+}
+body
+{
+	font-family: vendana;
+	font-size: 18px;
+	background-color: white;
+}
+
+h1{
+	text-align: center;
+	color: #FFBC1D;
+}
+div#about p{
+	width: 80%;
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+	color: white;
+}
+div#updates table{
+    width: 80%;
+	margin-right: auto;
+	margin-left: auto;
+	color: white;
+
+}
+div#contact{
+	width: 80%;
+	margin-right: auto;
+	margin-left: auto;
+	color: white;
+}
+div#payments{
+	width: 80%;
+	margin-right: auto;
+	margin-left: auto;
+	color: white;
+}
+form input{
+	display: block;
+	width: 30%;
+	height: 20px;
+}
+#footer{
+	height: 25px;
+	padding: 15px;
+}
+p#copy{
+	color: black;
+	padding: 30px;
+}
+div#ellah{
+	background-color:#004D6E;
+	}
+img.align-left {
+    float: left;
+    margin-right: 10px;
+}
+img.small
+ {
+width: 500px;
+height: 500px;
+}
